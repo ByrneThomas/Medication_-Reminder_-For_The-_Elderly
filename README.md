@@ -11,4 +11,4 @@ Project Requirements:
 6. Include an option to exit or close the application.
 7. Implement text-to-speech functionality for voice feedback and instructions.
    
-<img width="320" alt="Screenshot 2023-06-21 161909" src="https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly/assets/137300291/02e2182e-075f-492b-9361-16cd0cf4199f">
+<img width="299" alt="Screenshot 2023-07-14 093854" src="https://github.com/ByrneThomas/Medication_-Reminder_-For_The-_Elderly/assets/137300291/5cf51dc0-52ce-400b-9eb4-9a5d3bc73e12">
